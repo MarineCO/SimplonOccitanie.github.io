@@ -4,8 +4,6 @@ date:   2017-02-23 09:11:00 +0100
 title:  "Adoptez OpenStreetMap et sa Librairie Leaflet "
 categories: osm, maps, leaflet
 ---
-# 
-*******************************************************
    
 ![OSM](http://openstreetmap.fr/f/OSM-FR-logo-web-avec-texte.png)      
 
